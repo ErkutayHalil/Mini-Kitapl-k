@@ -1,3 +1,17 @@
+# Mini Kitaplık Projesi (Ödev-2)
+
+Projenin canlı haline aşağıdaki linkten ulaşabilirsiniz:
+
+https://mini-kitapl-k.vercel.app
+
+---
+
+# React + Vite 
+(Buradan sonrası dosyanın orijinal içeriği...)
+This template provides a minimal setup to get React working in Vite...
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
